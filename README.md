@@ -1,4 +1,4 @@
-# Code for the paper "[A Closed-Form Nonlinear Data Assimilation Algorithm for Multi-Layer Flow Fields](https://arxiv.org/abs/2412.11042)" ##
+# Code for the paper "[A Nonlinear Data Assimilation Algorithm with Closed-Form Approximations for Multi-Layer Flow Fields](https://doi.org/10.1175/MWR-D-24-0277.1)" ##
 
 <img src="./multistepDA.png" width="1000" />
 
