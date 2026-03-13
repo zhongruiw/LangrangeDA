@@ -10,13 +10,17 @@
 ## Paper
 If you find the code useful, please consider citing the paper 
 ```
-@misc{wang2024closedformnonlineardataassimilation,
-      title={A Closed-Form Nonlinear Data Assimilation Algorithm for Multi-Layer Flow Fields}, 
-      author={Zhongrui Wang and Nan Chen and Di Qi},
-      year={2024},
-      eprint={2412.11042},
-      archivePrefix={arXiv},
-      primaryClass={physics.flu-dyn},
-      url={https://arxiv.org/abs/2412.11042}, 
+@article { ANonlinearDataAssimilationAlgorithmwithClosedFormApproximationsforMultilayerFlowFields,
+      author = "Zhongrui Wang and Nan Chen and Di Qi",
+      title = "A Nonlinear Data Assimilation Algorithm with Closed-Form Approximations for Multilayer Flow Fields",
+      journal = "Monthly Weather Review",
+      year = "2025",
+      publisher = "American Meteorological Society",
+      address = "Boston MA, USA",
+      volume = "153",
+      number = "12",
+      doi = "10.1175/MWR-D-24-0277.1",
+      pages=      "2889 - 2912",
+      url = "https://journals.ametsoc.org/view/journals/mwre/153/12/MWR-D-24-0277.1.xml"
 }
 ```
